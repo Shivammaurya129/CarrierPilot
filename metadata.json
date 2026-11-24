@@ -1,0 +1,8 @@
+{
+  "name": "CareerPilot AI",
+  "description": "AI-powered career guidance platform providing career discovery, resume analysis, AI career roadmaps, interview prep, LinkedIn message generation, and skill gap analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
